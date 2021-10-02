@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya Singh
 - 👀 I’m interested in full stack development and solving coding problems,data structures.
-- 🌱 I’m currently learning Angular,Spring framework and DSA.
+- 🌱 Currently working as Software Engineer but keep on learning Angular,Spring framework and DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me riyatanuja36@gmail.com(email)
 
